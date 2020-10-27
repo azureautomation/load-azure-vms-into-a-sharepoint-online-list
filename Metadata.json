@@ -1,0 +1,20 @@
+{
+    "Author": "James R Tabor",
+    "ContentSize": 3743,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/load-azure-vms-into-a-sharepoint-online-list/master/LoadVMs%20to%20SharePointOnline.ps1",
+    "DownloadCount": 807,
+    "Id": "Load-Azure-VMs-into-a-7699d195",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 334,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-4-21T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "SYNOPSISThis script loads Azure VMs into a Sharepoint Online list.DESCRIPTIONA SharePoint Online custom list is required with at least the following columns to load the Virtual Machines found in the provided subscription.VMName {Renamed Title column} - Single li",
+    "Title": "Load Azure VMs into a SharePoint Online List",
+    "UpdatedDate": "2017-4-22T00:00:00",
+    "Url": "https://github.com/azureautomation/load-azure-vms-into-a-sharepoint-online-list",
+    "UserTags": "Microsoft Azure, Sharepoint Online, Azure Automation"
+}
